@@ -1,1 +1,1 @@
-# python_json
+# By using python retrieve the data from json file.
